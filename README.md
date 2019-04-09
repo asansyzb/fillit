@@ -53,9 +53,9 @@ Press `2` to select tests for fillit, press `1` to install [moulitest][5] as an 
 
 Have fun :)
 
-[1]: https://github.com/Aliba777/42-School-Projects/blob/master/fillit/fillit.en.pdf "fillit PDF"
+[1]: https://github.com/asansyzb/fillit/blob/master/fillit.en.pdf
 [2]: http://42.us.org "42 USA"
 [5]: https://github.com/yyang42/moulitest
-[14]: https://github.com/Aliba777/42-School-Projects/tree/master/libft
+[14]: https://github.com/asansyzb/libft
 [17]: https://github.com/jgigault/42FileChecker
 [18]: https://github.com/ValeriiaMur
