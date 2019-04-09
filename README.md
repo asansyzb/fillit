@@ -23,6 +23,7 @@ To speed up the program, I used bitwise operators.
 ### How do I use it?
 
 Download/clone this repo.
+
 	git clone https://github.com/asansyzb/fillit
 	cd fillit
 	git clone https://github.com/asansyzb/libft
